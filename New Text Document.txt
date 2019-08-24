@@ -1,0 +1,14 @@
+Command to run the backend server:
+docker-compose up
+
+ elanchezhiyan.m@cognizant.com 11:37 AM: 
+Hi
+Rajila, Asiyath (Cognizant) 11:39 AM: 
+Hi
+vnet ?
+572121 - mine
+M, Elanchezhiyan (Cognizant) 12:01 PM: 
+docker build -t movieservice-image:v1 .
+docker run -d -p 8080:8080 movieservice 
+M, Elanchezhiyan (Cognizant) 12:04 PM: 
+docker images
